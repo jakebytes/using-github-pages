@@ -1,6 +1,5 @@
 ---
-Title: Welcome to my blog
+Title: jake's vvorld
 ---
 
-This is my *first* blog entry.  
-I don't know what to **write**, so I will leave it at this. 
+This is my blog - welcome to my world!
